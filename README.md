@@ -23,7 +23,7 @@ The project uses a PostgreSQL relational database structured as follows:
 The database follows a star schema where `dim_country` is related to `fact_emissions` by `country_id`.
 
 ## Additional Information
-Please consult the Technical Documentation manual in this repository for more information and step by step.
+Please consult the Project Documentation manual in this repository for more information and step by step.
 Also check the SQL queries and PBI file.
 
 Thank you,
